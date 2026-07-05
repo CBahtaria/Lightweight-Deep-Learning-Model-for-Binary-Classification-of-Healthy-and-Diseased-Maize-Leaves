@@ -112,3 +112,12 @@ To reproduce — open the relevant notebook in `Training Codes/` and point `data
 ## Results
 
 Confusion matrices, ROC curves, and training histories for all five architectures are in `Results/`. Raw metrics per model are in `*_results.json`.
+
+---
+
+## Contributors
+
+| Name | GitHub | Role |
+|---|---|---|
+| Charles Bartaria | [@CBahtaria](https://github.com/CBahtaria) | Equal project partner |
+| Khayalethu Dlamini | [@Khayalethu2002](https://github.com/Khayalethu2002) | Equal project partner |
