@@ -119,5 +119,5 @@ Confusion matrices, ROC curves, and training histories for all five architecture
 
 | Name | GitHub | Role |
 |---|---|---|
-| Charles Bartaria | [@CBahtaria](https://github.com/CBahtaria) | Equal project partner |
-| Khayalethu Dlamini | [@Khayalethu2002](https://github.com/Khayalethu2002) | Equal project partner |
+| Charles Bartaria | [@CBahtaria](https://github.com/CBahtaria) | Model training, evaluation, comparative analysis |
+| Khayalethu Dlamini | [@Khayalethu2002](https://github.com/Khayalethu2002) | Model training, evaluation, comparative analysis |
